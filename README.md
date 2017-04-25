@@ -1,4 +1,7 @@
-# test coverage for  [arrify (v1.0.1)](https://github.com/sindresorhus/arrify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-arrify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-arrify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-arrify.svg)](https://travis-ci.org/npmtest/node-npmtest-arrify)
+# npmtest-arrify
+
+#### basic test coverage for  [arrify (v1.0.1)](https://github.com/sindresorhus/arrify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-arrify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-arrify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-arrify.svg)](https://travis-ci.org/npmtest/node-npmtest-arrify)
+
 #### Convert a value to an array
 
 [![NPM](https://nodei.co/npm/arrify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/arrify)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-arrify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-arrify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-arrify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-arrify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-arrify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-arrify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-arrify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-arrify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-arrify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-arrify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-arrify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-arrify/build/coverage.html/index.html)
 
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 

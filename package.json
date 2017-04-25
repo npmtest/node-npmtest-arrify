@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [arrify (v1.0.1)](https://github.com/sindresorhus/arrify#readme) [![npm package](https://img.shields.io/npm/v/npmtest-arrify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-arrify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-arrify.svg)](https://travis-ci.org/npmtest/node-npmtest-arrify)",
+    "description": "#### basic test coverage for  [arrify (v1.0.1)](https://github.com/sindresorhus/arrify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-arrify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-arrify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-arrify.svg)](https://travis-ci.org/npmtest/node-npmtest-arrify)",
     "devDependencies": {
         "arrify": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
